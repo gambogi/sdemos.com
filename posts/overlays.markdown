@@ -4,7 +4,7 @@ author: Stephen Demos
 published: January 16, 2016
 ---
 
-Gentoo makes it really easy for anybody to install custom packages using
+Gentoo makes it really easy for anybody to install custom packages usinglkjdalfkjasdf;
 Portage. However, they (obviously) keep the official Portage tree under tight
 controls. So, how do you add custom packages to the list of packages that
 Portage knows about? The solution is overlays!
